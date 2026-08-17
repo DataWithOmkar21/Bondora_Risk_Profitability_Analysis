@@ -156,9 +156,7 @@ Bondora\_Risk\_Profitability\_Analysis/
 
 └── Screenshots/
 
-&#x20;   ├── Page1.png
-
-&#x20;   ├── Page2.png
-
-&#x20;   └── Page3.png
+   ├── Browwer Profile & Loan Distribution.png
+   ├── Loan Performance & Financial Analysis.png
+   └── Risk & Profitability Analysis.png
 
